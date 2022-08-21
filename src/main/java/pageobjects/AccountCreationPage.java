@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package pageobjects;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -9,11 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 import actiondriver.Action;
 import actiondriver.BaseClass;
 
-
-/**
- * @author Hitendra
- *
- */
 public class AccountCreationPage extends BaseClass {
 	
 	Action action= new Action();

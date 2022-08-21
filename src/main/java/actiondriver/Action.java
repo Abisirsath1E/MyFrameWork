@@ -1,6 +1,3 @@
-/**
- * 
- */
 package actiondriver;
 
 import java.io.File;
@@ -26,11 +23,6 @@ import org.openqa.selenium.support.ui.Select;
 import org.openqa.selenium.support.ui.Wait;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-
-/**
- * @author Hitendra Verma added on 13th March2019
- *
- */
 public class Action extends BaseClass implements ActionInterface {
 
 	public void scrollByVisibilityOfElement(WebDriver driver, WebElement ele) {

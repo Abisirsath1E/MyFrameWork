@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.mystore.testcases;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;

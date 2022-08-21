@@ -3,10 +3,7 @@ package utility;
 import com.aventstack.extentreports.ExtentReports;
 import com.aventstack.extentreports.ExtentTest;
 import com.aventstack.extentreports.reporter.ExtentHtmlReporter;
-/**
- * @author Hitendra: ExtentManager class is used for Extent Report
- *  
- */
+
 public class ExtentManager {
 	
 	public static ExtentHtmlReporter htmlReporter;

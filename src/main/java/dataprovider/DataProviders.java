@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package dataprovider;
 
 import java.util.ArrayList;
@@ -12,12 +10,6 @@ import org.testng.annotations.DataProvider;
 
 import utility.NewExcelLibrary;
 
-
-
-/**
- * @author Hitendra
- *
- */
 public class DataProviders {
 
 	NewExcelLibrary obj = new NewExcelLibrary();

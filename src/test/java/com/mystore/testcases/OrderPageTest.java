@@ -1,6 +1,3 @@
-/**
- * 
- */
 package com.mystore.testcases;
 
 import org.testng.Assert;
@@ -17,10 +14,6 @@ import com.mystore.pageobjects.OrderPage;
 import com.mystore.pageobjects.SearchResultPage;
 import com.mystore.utility.Log;
 
-/**
- * @author Hitendra
- *
- */
 public class OrderPageTest extends BaseClass {
 
 	private IndexPage index;

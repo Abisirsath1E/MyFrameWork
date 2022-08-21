@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.mystore.testcases;
 
 import org.testng.Assert;
@@ -23,10 +21,6 @@ import com.mystore.pageobjects.SearchResultPage;
 import com.mystore.pageobjects.ShippingPage;
 import com.mystore.utility.Log;
 
-/**
- * @author Hitendra
- *
- */
 public class EndToEndTest extends BaseClass {
 	
 	private IndexPage index;

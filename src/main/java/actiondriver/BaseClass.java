@@ -22,11 +22,7 @@ import com.beust.jcommander.Parameter;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import utility.ExtentManager;
-/**
- * @author Hitendra: BaseClass is used to load the config file and Initialize 
- * WebDriver
- *  
- */
+
 public class BaseClass {
 	public static Properties prop;
 

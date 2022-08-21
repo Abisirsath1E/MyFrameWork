@@ -6,10 +6,6 @@ import org.openqa.selenium.support.PageFactory;
 import actiondriver.Action;
 import actiondriver.BaseClass;
 
-/**
- * @author Hitendra
- *
- */
 public class AddToCartPage extends BaseClass {
 	
 	Action action= new Action();

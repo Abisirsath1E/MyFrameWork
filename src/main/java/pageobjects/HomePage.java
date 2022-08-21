@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package pageobjects;
 
 import org.openqa.selenium.WebElement;
@@ -10,10 +8,7 @@ import org.openqa.selenium.support.PageFactory;
 import actiondriver.Action;
 import actiondriver.BaseClass;
 
-/**
- * @author Hitendra
- *
- */
+
 public class HomePage extends BaseClass {
 	
 	Action action= new Action();

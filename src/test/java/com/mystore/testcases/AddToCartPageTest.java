@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.mystore.testcases;
 
 import org.testng.Assert;
@@ -16,10 +14,6 @@ import com.mystore.pageobjects.IndexPage;
 import com.mystore.pageobjects.SearchResultPage;
 import com.mystore.utility.Log;
 
-/**
- * @author Hitendra
- *
- */
 public class AddToCartPageTest extends BaseClass {
 	
 	private IndexPage index;

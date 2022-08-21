@@ -1,6 +1,4 @@
-/**
- * 
- */
+
 package com.mystore.testcases;
 
 import org.testng.Assert;
@@ -16,10 +14,6 @@ import com.mystore.pageobjects.IndexPage;
 import com.mystore.pageobjects.LoginPage;
 import com.mystore.utility.Log;
 
-/**
- * @author Hitendra
- *
- */
 public class HomePageTest extends BaseClass {
 	private IndexPage indexPage;
 	private LoginPage loginPage;
