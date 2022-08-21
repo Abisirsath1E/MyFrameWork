@@ -11,10 +11,6 @@ import com.mystore.base.BaseClass;
 import com.mystore.pageobjects.IndexPage;
 import com.mystore.utility.Log;
 
-/**
- * @author Hitendra
- *
- */
 public class IndexPageTest extends BaseClass {
 	private IndexPage indexPage;
     
