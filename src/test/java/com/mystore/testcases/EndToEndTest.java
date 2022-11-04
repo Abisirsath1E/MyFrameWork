@@ -7,19 +7,19 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.mystore.base.BaseClass;
-import com.mystore.dataprovider.DataProviders;
-import com.mystore.pageobjects.AddToCartPage;
-import com.mystore.pageobjects.AddressPage;
-import com.mystore.pageobjects.IndexPage;
-import com.mystore.pageobjects.LoginPage;
-import com.mystore.pageobjects.OrderConfirmationPage;
-import com.mystore.pageobjects.OrderPage;
-import com.mystore.pageobjects.OrderSummary;
-import com.mystore.pageobjects.PaymentPage;
-import com.mystore.pageobjects.SearchResultPage;
-import com.mystore.pageobjects.ShippingPage;
-import com.mystore.utility.Log;
+import actiondriver.BaseClass;
+import dataprovider.DataProviders;
+import pageobjects.AddToCartPage;
+import pageobjects.AddressPage;
+import pageobjects.IndexPage;
+import pageobjects.LoginPage;
+import pageobjects.OrderConfirmationPage;
+import pageobjects.OrderPage;
+import pageobjects.OrderSummary;
+import pageobjects.PaymentPage;
+import pageobjects.SearchResultPage;
+import pageobjects.ShippingPage;
+import utility.Log;
 
 public class EndToEndTest extends BaseClass {
 	

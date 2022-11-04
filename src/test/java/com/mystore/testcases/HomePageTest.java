@@ -7,12 +7,12 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.mystore.base.BaseClass;
-import com.mystore.dataprovider.DataProviders;
-import com.mystore.pageobjects.HomePage;
-import com.mystore.pageobjects.IndexPage;
-import com.mystore.pageobjects.LoginPage;
-import com.mystore.utility.Log;
+import actiondriver.BaseClass;
+import dataprovider.DataProviders;
+import pageobjects.HomePage;
+import pageobjects.IndexPage;
+import pageobjects.LoginPage;
+import utility.Log;
 
 public class HomePageTest extends BaseClass {
 	private IndexPage indexPage;

@@ -7,11 +7,11 @@ import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
 
-import com.mystore.base.BaseClass;
-import com.mystore.dataprovider.DataProviders;
-import com.mystore.pageobjects.IndexPage;
-import com.mystore.pageobjects.SearchResultPage;
-import com.mystore.utility.Log;
+import actiondriver.BaseClass;
+import dataprovider.DataProviders;
+import pageobjects.IndexPage;
+import pageobjects.SearchResultPage;
+import utility.Log;
 
 public class SearchResultPageTest extends BaseClass {
 	private IndexPage index;
